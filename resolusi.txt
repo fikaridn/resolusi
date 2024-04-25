@@ -1,7 +1,6 @@
 1. Resolusi 1
 2. Resolusi 2
-3. Resolusi 3
-4. Tambagan Resolusi 4
 5. Tambagan Resolusi 5
 6. Tambagan Resolusi 6
-
+7. Tambagan Resolusi Baru 7
+8. Tambagan Resolusi Baru 8
